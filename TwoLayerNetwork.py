@@ -33,7 +33,7 @@ for t in range(500):
     # Compute and print loss
     loss = loss_fn(y_pred, y)
     if t%100 == 99:
-        print(t, loss.item())
+        print("epoch = {}, loss = {}".format(t, loss.item()))
 
     #Zero the gradients before running the backward pass
     optimizer.zero_grad()
