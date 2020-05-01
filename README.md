@@ -86,6 +86,6 @@ epoch = 499, loss = 1.488259840698447e-05
 ```
 
 References:
-https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/
-Justin Johnson. Learning PyTorch with Examples.
-Using the PyTorch C++ Frontend
+* https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/
+* Justin Johnson. Learning PyTorch with Examples.
+* Using the PyTorch C++ Frontend
